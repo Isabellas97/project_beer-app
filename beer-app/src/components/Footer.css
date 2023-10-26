@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+footer {
+  width: 100vw;
+
+  height: 25vh;
+  background-color: #ffca41;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+footer a {
+  background-color: white;
+  border-radius: 100%;
+  cursor: pointer;
+  font-size: 5rem;
+  margin: 0 auto;
+  width: 10vw;
+  text-align: center;
+
+  margin: 10vh;
+  padding: 1vh 5.5vw;
+  text-decoration: none;
+}

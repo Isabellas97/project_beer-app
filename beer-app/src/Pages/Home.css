@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  margin-top: 10vh;
+  width: 80vw;
+}
+
+section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+p {
+  font-size: 1.5rem;
+  margin-top: 2vh;
+  font-family: roboto;
+  width: 80vw;
+}
+a {
+  color: white;
+  text-decoration: none;
+  font-size: 2.5rem;
+  font-family: roboto;
+  padding: 1vh 3vw;
+}

@@ -1,0 +1,35 @@
+.beerfetch {
+  display: flex;
+  width: 100vw;
+
+  padding-bottom: 10vh;
+  border-bottom: 3px solid rgba(0, 0, 0, 0.5);
+}
+
+.beerfetch h2 {
+  margin-top: 10vh;
+}
+.beerfetch p {
+  font-size: 1rem;
+  margin-bottom: 3vh;
+  width: 60vw;
+}
+
+.beerfetch img {
+  object-fit: contain;
+  height: 20vh;
+}
+
+.beerfetch a {
+  color: white;
+  font-size: 1.2rem;
+  text-decoration: none;
+  background-color: #ffca41;
+  padding: 0.5vh 5vw;
+  border-radius: 30px;
+}
+
+.description {
+  width: 70vw;
+  padding: 0 5vw;
+}

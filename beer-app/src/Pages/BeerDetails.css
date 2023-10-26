@@ -1,0 +1,48 @@
+.details {
+  margin: 10vw;
+}
+
+.details img {
+  object-fit: contain;
+  height: 60vh;
+  display: block;
+  margin: 0 auto;
+}
+
+.details a {
+  font-size: 3rem;
+  padding: 1vh 5vw;
+  border-radius: 100%;
+  margin-top: 5vh;
+  margin-bottom: 5vh;
+  display: inline-block;
+  background-color: #ffca41;
+}
+
+.details p {
+  font-size: 1rem;
+  margin-top: 5vh;
+}
+
+.details h2 {
+  font-size: 4rem;
+  margin-top: 7vh;
+  margin-bottom: 1vh;
+}
+
+.details h3 {
+  margin-bottom: 4vh;
+}
+
+.details h4 {
+  margin: 0;
+}
+
+.details span {
+  text-align: end;
+}
+
+.loading {
+  margin-top: 20%;
+  text-align: center;
+}
